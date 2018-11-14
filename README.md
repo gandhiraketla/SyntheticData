@@ -6,7 +6,9 @@ Pre-requisites :
    Mac users https://www.python.org/downloads/mac-osx/
 2. Install tensorflow using by running, source activate tensorflow_p27
 3. Download script through web interface or command line.
+
    3.1 Web interface: Download zip from https://github.com/gandhiraketla/SyntheticData
+   
    3.2 Command prompt : git checkout https://github.com/gandhiraketla/SyntheticData
 
 Execution :
