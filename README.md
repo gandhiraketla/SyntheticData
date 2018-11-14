@@ -8,7 +8,9 @@ Pre-requisites :
 3. Download script through web interface or command line.
    3.1 Web interface: Download zip from https://github.com/gandhiraketla/SyntheticData
    3.2 Command prompt : git checkout https://github.com/gandhiraketla/SyntheticData
+
 Execution :
+
 Execute script tfrecord_image_generator.py with below parameters
 1. Path of folder where images are generates
 2. No of training images
