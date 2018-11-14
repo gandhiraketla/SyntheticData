@@ -1,6 +1,7 @@
 # SyntheticData
 
 The script generates syntheric data that can be used in model training. 
+
 Pre-requisites :
 1. Install Python. Windows users refer : https://www.python.org/downloads/windows/
    Mac users https://www.python.org/downloads/mac-osx/
