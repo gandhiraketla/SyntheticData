@@ -17,4 +17,5 @@ Execute script tfrecord_image_generator.py with below parameters
 3. No of evaluation images
 
 python tfrecord_image_generator.py <path_of_floder> <no_of_train_images> <no_of_evaluation_images>
+
 Example : python tfrecord_image_generator.py /Users/gandhira/Documents/ML-Lab/SyntheticData 5 3
